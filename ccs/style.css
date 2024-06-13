@@ -1,0 +1,118 @@
+Body{
+    margin: 0%;
+}
+.header{
+ background-color: black;
+ color: white;
+ 
+ 
+ }
+.header h1 {
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+    margin: 0%;
+    height: 0%;
+    padding: 1%;
+}
+
+ .descripcion{
+    display: flex;
+    background-color: rgb(31, 20, 20);
+    color: white;
+    justify-content: space-around;
+    margin: 0%;
+    }
+    .descripcion p{
+        font-size: 20px;
+        text-align: left;
+        font-family: "Raleway", sans-serif;
+        font-weight: 200;
+        padding: 80px;
+        margin: 0%; 
+    }
+
+    .descripcion img {
+        height: 300px;
+        width: 500px;
+        padding: 40px;
+        margin: 0%;
+    }
+.caracteristicas {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    }
+
+.h2{
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+    font-weight: 90;
+    text-align: center;
+    }
+
+ .boxes{
+    display: flex;
+    justify-content: space-around;
+      }
+    .box{
+        padding: 20px;
+        justify-content: center;
+        text-align: center;  
+        }
+    .box i:hover{
+        color: darkgreen;
+    
+    }
+    .box p{
+        font-family: "Raleway", sans-serif;
+        font-size: 18px;
+        font-weight: 200;
+    } 
+
+.galeria{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 20px;
+
+}
+    .galeria img{
+    height: 202px;
+    width: 316px;
+    padding: 5px;
+    }
+
+.footer{
+    
+    display: flex;
+    justify-content: center;
+    background-color: #292114;
+    color: white;
+    padding: 2%;
+    nav-down: 10px;
+    
+    }
+.footer a{
+    font-style: oblique;
+    font-family: "Raleway", sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 150;
+    }
+.footer a:hover{
+    color: blue;
+    
+    }
+
+
+
+
+
+
+
+
+
+ 
